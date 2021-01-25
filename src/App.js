@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import RandomNameGenerator from './screens/RandomNameGenerator'
 
 const App = () => {
-  return <placeholder />
+  return <RandomNameGenerator />
 }
 
 export default App
